@@ -37,11 +37,11 @@ python_lug_at = {"integer":"Butun qiymatlar qabul qiladi",
 
 # to'rtinchi topshiriq
 
-so_z = input(f"Kalit so'zni kiriting: ")
+# so_z = input(f"Kalit so'zni kiriting: ")
 
-chiqish = python_lug_at.get(so_z, "Bunday so'z mavjud emas")
+# chiqish = python_lug_at.get(so_z, "Bunday so'z mavjud emas")
 
-print(chiqish)
+# print(chiqish)
 
 #print(f"{python_lug_at[f'{so_z}']}")
 
