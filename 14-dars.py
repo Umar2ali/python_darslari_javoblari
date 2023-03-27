@@ -39,7 +39,7 @@ python_lug_at = {"integer":"Butun qiymatlar qabul qiladi",
 
 so_z = input(f"Kalit so'zni kiriting: ")
 
-chiqish = python_lug_at.get("string", "Bunday so'z mavjud emas")
+chiqish = python_lug_at.get(so_z, "Bunday so'z mavjud emas")
 
 print(chiqish)
 
